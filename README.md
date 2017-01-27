@@ -8,14 +8,14 @@ Máscaras para validação de dados(front):
  - Datas;
 
 - C#
-Validação(behind):
- - Pessoas física ou jurídica;
- - Telefone fixo ou móvel;
- - String válida;
- - Se string é hexadecimal;
+- Validação(behind):
+  - Pessoas física ou jurídica;
+  - Telefone fixo ou móvel;
+  - String válida;
+  - Se string é hexadecimal;
 
-Comuns:
- - Descrição de enum amigável;
- - Conversão para CPF/CNPJ;
+- Comuns:
+  - Descrição de enum amigável;
+  - Conversão para CPF/CNPJ;
 
 ###em construção.
