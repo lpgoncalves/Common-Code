@@ -1,13 +1,13 @@
 # Common Code
 
-##Jquery
+*Jquery
 Máscaras para validação de dados(front): 
  - Pessoas física ou jurídica;
  - Telefone fixo ou móvel;
  - Cartões de Crédito;
  - Datas;
 
-##C\#\
+*C#
 Validação(behind):
  - Pessoas física ou jurídica;
  - Telefone fixo ou móvel;
