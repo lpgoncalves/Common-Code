@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace SGV.Core
+namespace PhoneValidator
 {
     public static class PhoneValidator
     {
